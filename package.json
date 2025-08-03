@@ -1,0 +1,29 @@
+{
+  "name": "myreact",
+  "version": "1.0.0",
+  "description": "This is my React by Lavanya Sangamreddi",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavanyasangamreddi/MyReact.git"
+  },
+  "keywords": [
+    "react",
+    "myreact",
+    "lavanya",
+    "sangamreddi"
+  ],
+  "author": "Lavanya Sangamreddi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lavanyasangamreddi/MyReact/issues"
+  },
+  "homepage": "https://github.com/lavanyasangamreddi/MyReact#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {}
+}
