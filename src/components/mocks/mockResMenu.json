@@ -1,0 +1,1248 @@
+{
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+                        "text": "Kwality Walls Ice Cream and More",
+                        "headerStyling": {
+                            "textColor": "text_Highest_Emphasis",
+                            "textVariant": "header_H3_Black"
+                        }
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+                        "tabs": [
+                            {
+                                "id": "Order Online",
+                                "title": "Order Online"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                        "info": {
+                            "id": "313067",
+                            "name": "Kwality Walls Ice Cream and More",
+                            "city": "Srikakulam",
+                            "slugs": {
+                                "restaurant": "kwality-walls-n-a-d-n-a-d-2",
+                                "city": "srikakulam"
+                            },
+                            "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/13/9bc9e6f0-e139-4ee0-add7-9746bcc23c65_313067.JPG",
+                            "locality": "Gudi Veedhi Junction",
+                            "areaName": "Gujarathipeta",
+                            "costForTwo": "30000",
+                            "costForTwoMessage": "₹300 for two",
+                            "cuisines": [
+                                "Desserts",
+                                "Ice Cream"
+                            ],
+                            "avgRating": 4.6,
+                            "veg": true,
+                            "feeDetails": {
+                                "restaurantId": "313067",
+                                "fees": [
+                                    {}
+                                ]
+                            },
+                            "parentId": "582",
+                            "avgRatingString": "4.6",
+                            "totalRatingsString": "2.0K+ ratings",
+                            "sla": {
+                                "restaurantId": "313067",
+                                "lastMileTravel": 98.9,
+                                "serviceability": "NON_SERVICEABLE",
+                                "rainMode": "RAIN_MODE_NONE",
+                                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                                "lastMileTravelString": "98.9 km",
+                                "iconType": "ICON_TYPE_EMPTY"
+                            },
+                            "availability": {
+                                "nextCloseTime": "2025-07-11 21:00:00",
+                                "visibility": true,
+                                "opened": true,
+                                "restaurantClosedMeta": {}
+                            },
+                            "aggregatedDiscountInfo": {
+                                "shortDescriptionList": [
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "10% off upto ₹125|Use HSBCFEST Above ₹499",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "10% off upto ₹100|Use RBLCC100 Above ₹499",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "visible": true
+                            },
+                            "badges": {},
+                            "slugString": "kwality-walls-n-a-d-n-a-d-2",
+                            "multiOutlet": true,
+                            "isOpen": true,
+                            "labels": [
+                                {
+                                    "title": "Timings",
+                                    "message": "null"
+                                },
+                                {
+                                    "title": "Address",
+                                    "message": "10/3/36, GUDI VEEDHI JUNCTION, SRIKAKULAM, PROPRIETOR, SIVA PRASAD TOTTEMPUDI, District - Srikakulam, STATE - Andhra Pradesh"
+                                },
+                                {
+                                    "title": "Cuisines",
+                                    "message": "Desserts,Ice Cream"
+                                }
+                            ],
+                            "logo": "Brand logo/KwWaICr",
+                            "totalRatings": 2000,
+                            "aggregatedDiscountInfoV2": {
+                                "shortDescriptionList": [
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "10% off upto ₹125|Use HSBCFEST Above ₹499",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "10% off upto ₹100|Use RBLCC100 Above ₹499",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "couponDetailsCta": "View coupon details"
+                            },
+                            "type": "F",
+                            "headerBanner": {
+                                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/313067"
+                            },
+                            "generalPurposeInfoListV2": [
+                                {
+                                    "cta": {
+                                        "info": {
+                                            "recordings": {}
+                                        },
+                                        "linkCta": {}
+                                    }
+                                }
+                            ],
+                            "ratingSlab": "RATING_SLAB_5",
+                            "availabilityServiceabilityMessage": "Does not deliver to your location",
+                            "orderabilityCommunication": {
+                                "title": {
+                                    "text": "Wish you were"
+                                },
+                                "subTitle": {
+                                    "text": "CLOSER!"
+                                },
+                                "message": {
+                                    "text": "This location is outside the outlet's delivery area",
+                                    "textColour": "negative"
+                                },
+                                "customIcon": {
+                                    "bgGradientColorStart": "#F64C41",
+                                    "bgGradientColorEnd": "#E53554"
+                                },
+                                "commsStyling": {}
+                            },
+                            "hasBestsellerItems": true,
+                            "nearestOutletNudge": {
+                                "nearestOutletInfo": {
+                                    "siblingOutlet": {
+                                        "id": "441333",
+                                        "city": "0",
+                                        "slugs": {},
+                                        "areaName": "Gajuwaka",
+                                        "costForTwo": "0",
+                                        "feeDetails": {},
+                                        "sla": {
+                                            "deliveryTime": 23,
+                                            "lastMileTravel": 4.2,
+                                            "slaString": "23 MINS",
+                                            "lastMileTravelString": "4.2 km",
+                                            "iconType": "ICON_TYPE_EMPTY"
+                                        },
+                                        "availability": {
+                                            "restaurantClosedMeta": {}
+                                        },
+                                        "aggregatedDiscountInfo": {
+                                            "visible": true
+                                        },
+                                        "badges": {},
+                                        "aggregatedDiscountInfoV2": {
+                                            "visible": true
+                                        },
+                                        "availabilityServiceabilityMessage": "Temporarily closed for delivery",
+                                        "cartOrderabilityNudgeBanner": {
+                                            "parameters": {},
+                                            "presentation": {}
+                                        },
+                                        "featuredSectionInfo": {}
+                                    }
+                                },
+                                "nearestOutletComms": {
+                                    "title": {
+                                        "text": "Don't worry! Try our outlet that's delivering"
+                                    },
+                                    "subTitle": {
+                                        "text": "Switch to the fastest alternate"
+                                    }
+                                }
+                            },
+                            "cartOrderabilityNudgeBanner": {
+                                "parameters": {},
+                                "presentation": {}
+                            },
+                            "latLong": "18.299691515857667,83.87178654418915",
+                            "backgroundImageOverlayInfo": {},
+                            "featuredSectionInfo": {},
+                            "dishStyle": {
+                                "socialMarkerStyle": [
+                                    {
+                                        "socialMarkerType": "SOCIAL_MARKER_TYPE_HIGH_PROTEIN",
+                                        "title": "Protein Rich",
+                                        "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
+                                        "textColor": "highlight"
+                                    },
+                                    {
+                                        "socialMarkerType": "SOCIAL_MARKER_TYPE_BESTSELLER",
+                                        "title": "Bestseller",
+                                        "textStyle": "FONT_NAME_V2_BODY3_NEUTRAL_BOLD",
+                                        "textColor": "color_swiggy_one"
+                                    }
+                                ]
+                            }
+                        },
+                        "analytics": {}
+                    },
+                    "relevance": {
+                        "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+                        "sectionId": "POP_UP_CROUTON_MENU"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "rows": 1,
+                            "columns": 4,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 12,
+                            "lineSpacing": 10,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 10,
+                                    "right": 10,
+                                    "bottom": 16
+                                }
+                            }
+                        },
+                        "id": "offerCollectionWidget_UX4",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                                "offers": [
+                                    {
+                                        "info": {
+                                            "header": "10% OFF UPTO ₹125",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/6/30/a0d068a6-97e6-46a3-a774-476006c58c85_HSBC.png",
+                                            "offerIds": [
+                                                "98b1da31-b50c-4075-a813-8ae3e54b654b"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE HSBC125",
+                                            "description": "ABOVE ₹499",
+                                            "offerType": "offers",
+                                            "restId": "313067",
+                                            "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/6/30/a0d068a6-97e6-46a3-a774-476006c58c85_HSBC.png",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE HSBC125"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "10% OFF UPTO ₹100",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/7/1/3d5cf9ca-3675-45d6-b198-81706d660fda_RBLMenuVisibilityLogo.png",
+                                            "offerIds": [
+                                                "01dfb7bb-4cba-4839-9327-681f374878ec"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE RBLCC100",
+                                            "description": "ABOVE ₹499",
+                                            "offerType": "offers",
+                                            "restId": "313067",
+                                            "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/7/1/3d5cf9ca-3675-45d6-b198-81706d660fda_RBLMenuVisibilityLogo.png",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE RBLCC100"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹75 OFF",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/7/1/44b123ae-3682-4d0c-b9bc-47a5dd556af4_YESBankMenuLogoNew1.png",
+                                            "offerIds": [
+                                                "1aa4b220-a2ae-4cff-8c7d-92937c3e5ad3"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "NO CODE REQUIRED",
+                                            "description": "ABOVE ₹499",
+                                            "offerType": "offers",
+                                            "restId": "313067",
+                                            "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/7/1/44b123ae-3682-4d0c-b9bc-47a5dd556af4_YESBankMenuLogoNew1.png",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "NO CODE REQUIRED"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT ₹150 OFF",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/7/1/cc57e8b7-9f71-45cf-8bb7-2f11a6f5b0f4_Axis.png",
+                                            "offerIds": [
+                                                "91652979-7938-4593-b0e4-74db083e2be1"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE AXISREWARDS",
+                                            "description": "ABOVE ₹500",
+                                            "offerType": "offers",
+                                            "restId": "313067",
+                                            "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/7/1/cc57e8b7-9f71-45cf-8bb7-2f11a6f5b0f4_Axis.png",
+                                            "descriptionTextColor": "#7302060C",
+                                            "primaryDescription": "USE AXISREWARDS"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    }
+                                ],
+                                "habitMilestoneInfo": {
+                                    "callout": {}
+                                },
+                                "loyaltyDiscoverPresentationInfo": {
+                                    "logoCtx": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "groupedCard": {
+                    "cardGroupMap": {
+                        "REGULAR": {
+                            "cards": [
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                                            "isPureVeg": true,
+                                            "badges": {},
+                                            "vegOnlyDetails": {
+                                                "imageId": "AutoVegOnly_qkjowj",
+                                                "title": "Showing only vegetarian options.",
+                                                "description": "Tap on the VEG ONLY button to turn off the setting"
+                                            },
+                                            "topRatedFilter": {
+                                                "attributes": {
+                                                    "displayText": "Ratings 4.0+"
+                                                }
+                                            },
+                                            "kidsCategoryFilter": {
+                                                "attributes": {
+                                                    "displayText": "Kids Favourites",
+                                                    "tooltip": {
+                                                        "enabled": true,
+                                                        "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                                                    }
+                                                }
+                                            },
+                                            "vegFilter": {
+                                                "attributes": {
+                                                    "displayText": "VEG"
+                                                }
+                                            },
+                                            "nonvegFilter": {
+                                                "attributes": {
+                                                    "displayText": "NONVEG"
+                                                }
+                                            }
+                                        },
+                                        "relevance": {
+                                            "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                                            "sectionId": "MENU_FILTER_TOGGLE"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Recommended",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "140431614",
+                                                            "name": "Cornetto Butterscotch, 105ml",
+                                                            "category": "Cornetto",
+                                                            "description": "Creamy butterscotch loaded with chunks of caramel cashew topping in a crunchy waffle cone. Kcal/Serving198",
+                                                            "imageId": "2f25b3897c950594eda32c440147c0c1",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "205 ratings",
+                                                                    "ratingCountV2": "205"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#C8F9E5",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_very_good",
+                                                                    "ratingTextColor": "rating_very_good",
+                                                                    "ratingCountTextColor": "rating_very_good",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114101752",
+                                                            "name": "Trixy Cookie Sundae 110ml",
+                                                            "category": "Single Serve Cups",
+                                                            "description": "(110ml) Parlour like fun in a cup. \n3 delicious layers - silky chocolate disc, delicious cookies & cream and crunchy choco cookies. Kcal/Serving235",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/23/ab4fa7f8-92de-45f5-896f-fdbe08e6aa7c_f464e122-da96-4bd9-a41c-4b17599431fe.jpg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "17 ratings",
+                                                                    "ratingCountV2": "17"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#C8F9E5",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_very_good",
+                                                                    "ratingTextColor": "rating_very_good",
+                                                                    "ratingCountTextColor": "rating_very_good",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "type": "CATEGORY_TYPE_RECOMMENDED",
+                                            "subtitleSuffix": {},
+                                            "categoryId": "-1"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Kwality Wall's New Arrivals",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "149222065",
+                                                            "name": "Butterscotch cup [90ml x 4pcs]",
+                                                            "category": "Kwality Wall's New Arrivals",
+                                                            "description": "Creamy butterscotch scoop loaded with chunks of caramel coated cashew nuts. Kcal/Serving: 110 (5%)",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/31/e9706531-d309-4ce8-ba23-b4e39f8b3fb1_3891737e-24d4-4af0-889f-928830a29699.jpg_compressed",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 12000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "5.0",
+                                                                    "ratingCount": "3 ratings",
+                                                                    "ratingCountV2": "3"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#C8F9E5",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_very_good",
+                                                                    "ratingTextColor": "rating_very_good",
+                                                                    "ratingCountTextColor": "rating_very_good",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "157895343",
+                                                            "name": "Dry Fruit Delight Cup (100ml x 2pcs)",
+                                                            "category": "Kwality Wall's New Arrivals",
+                                                            "description": "A Dry Fruit Lover's Dessert! Cashews , Almonds and Raisins In Every Bite, a perfect dry fruit cup Kcal/Serving: 126",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/14/de9f7683-a866-43d1-b71a-55a93226726e_d4b11d59-227a-41e9-b07c-64a8f5ce128d.jpg_compressed",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 10000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "5.0",
+                                                                    "ratingCount": "5 ratings",
+                                                                    "ratingCountV2": "5"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#C8F9E5",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_very_good",
+                                                                    "ratingTextColor": "rating_very_good",
+                                                                    "ratingCountTextColor": "rating_very_good",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "157895385",
+                                                            "name": "Choco Brownie Fudge Cup (100ml x 2pcs)",
+                                                            "category": "Kwality Wall's New Arrivals",
+                                                            "description": "Rich Chocolate Full Of Chunky Brownie Pieces And Chocolate Fudge. Kcal/Serving: 144",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/22/1a4d85d7-beec-40f5-bc3d-2f2b08c3d2ef_af75cee2-c852-4940-a5d0-806c6c544d7f.jpg_compressed",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 10000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "9 ratings",
+                                                                    "ratingCountV2": "9"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#C8F9E5",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_very_good",
+                                                                    "ratingTextColor": "rating_very_good",
+                                                                    "ratingCountTextColor": "rating_very_good",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "157895427",
+                                                            "name": "Divine Chocolate Chocochip Cup (100ml x 2 pcs)",
+                                                            "category": "Kwality Wall's New Arrivals",
+                                                            "description": "A Real Chocolate Indulgence Made With Rich Cocoa. Loaded With Choco chips & Rich Chocolate Sauce In Every Creamy Bite. Kcal/Serving: 133",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/16/789a3f02-244a-4acf-b3d9-ed12b0cf7d09_928d334f-b062-4223-a43f-e1fcaab66e2f.jpg_compressed",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 10000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "12 ratings",
+                                                                    "ratingCountV2": "12"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#C8F9E5",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_very_good",
+                                                                    "ratingTextColor": "rating_very_good",
+                                                                    "ratingCountTextColor": "rating_very_good",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2024/5/31/e9706531-d309-4ce8-ba23-b4e39f8b3fb1_3891737e-24d4-4af0-889f-928830a29699.jpg_compressed",
+                                            "categoryId": "56329897"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Cornetto",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "140431614",
+                                                            "name": "Cornetto Butterscotch, 105ml",
+                                                            "category": "Cornetto",
+                                                            "description": "Creamy butterscotch loaded with chunks of caramel cashew topping in a crunchy waffle cone. Kcal/Serving198",
+                                                            "imageId": "2f25b3897c950594eda32c440147c0c1",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "205 ratings",
+                                                                    "ratingCountV2": "205"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#C8F9E5",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_very_good",
+                                                                    "ratingTextColor": "rating_very_good",
+                                                                    "ratingCountTextColor": "rating_very_good",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "149222028",
+                                                            "name": "Cornetto Double Chocolate Ice cream 105 ml",
+                                                            "category": "Cornetto",
+                                                            "description": "Duo of milk and dark chocolate topped with chocolate sauce, chocochips in a crunchy waffle cone. Kcal/Serving: 184",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/2/d32b20d9-6c27-4213-9f1e-21afb2156b3b_846a3f6e-07e8-4eb6-9511-fc5bda514090.jpg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 4000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "41 ratings",
+                                                                    "ratingCountV2": "41"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#C8F9E5",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_very_good",
+                                                                    "ratingTextColor": "rating_very_good",
+                                                                    "ratingCountTextColor": "rating_very_good",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "2f25b3897c950594eda32c440147c0c1",
+                                            "categoryId": "56329297"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Family Tubs",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "140431630",
+                                                            "name": "Butterscotch Tub, 700ml",
+                                                            "category": "Family Tubs",
+                                                            "description": "Creamy butterscotch tub loaded with chunks of caramel coated cashew nuts. Kcal/Serving126",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/23/f781d918-f42e-4d88-819c-2d15aef8151e_b7571308-1d58-44e4-9740-acbec50849c7.jpg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 18000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "39 ratings",
+                                                                    "ratingCountV2": "39"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#C8F9E5",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_very_good",
+                                                                    "ratingTextColor": "rating_very_good",
+                                                                    "ratingCountTextColor": "rating_very_good",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "140431622",
+                                                            "name": "Alphonso Mango Tub, 700ml",
+                                                            "category": "Family Tubs",
+                                                            "description": "Enjoy the delight of real  alphonso mango in a delicious creamy tub.  A fruit lover's ultimate delight! Kcal/Serving94",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/23/1520ec6f-a546-438e-b362-40ccbbe29bca_2fdf4632-8857-45e2-ae46-655bfa35a696.jpg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 18000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "24 ratings",
+                                                                    "ratingCountV2": "24"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#C8F9E5",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_very_good",
+                                                                    "ratingTextColor": "rating_very_good",
+                                                                    "ratingCountTextColor": "rating_very_good",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114101708",
+                                                            "name": "Hazelnut Chocolate Ice Cream 500ml",
+                                                            "category": "Family Tubs",
+                                                            "description": "Ice Cream with Hazelnuts Decadent Chocolate Ice Cream full of crunchy and roasted hazelnuts and chocolate. Kcal/Serving165",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/8/1acf165a-5a6a-4fd4-a238-f2caed892064_08d5e7d1-2942-4e48-9756-96b21fb6753a_compressed",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 32500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.9",
+                                                                    "ratingCount": "11 ratings",
+                                                                    "ratingCountV2": "11"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#D9EFEC",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_medium",
+                                                                    "ratingTextColor": "rating_medium",
+                                                                    "ratingCountTextColor": "rating_medium",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2024/4/23/f781d918-f42e-4d88-819c-2d15aef8151e_b7571308-1d58-44e4-9740-acbec50849c7.jpg",
+                                            "categoryId": "56328275"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Single Serve Cups",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "140431673",
+                                                            "name": "Kulfi Cup Ice Cream,  100ml",
+                                                            "category": "Single Serve Cups",
+                                                            "description": "Your favourite Desi Matka Kulfi in a cup!\nRich creamy kulfi with almonds - a desi delight for an  icecream lover. Kcal/Serving139",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/23/1573f058-e619-47e4-8f6a-36082e061f98_a05a4bb8-d574-4712-b338-8a450435543a.jpg_compressed",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 6000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "73 ratings",
+                                                                    "ratingCountV2": "73"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#C8F9E5",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_very_good",
+                                                                    "ratingTextColor": "rating_very_good",
+                                                                    "ratingCountTextColor": "rating_very_good",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "140431665",
+                                                            "name": "Trixy blueberry Cheesecake, (Sundae) 110ml",
+                                                            "category": "Single Serve Cups",
+                                                            "description": "Parlour like fun in a cup!\n3 delicious layers - blueberry sauce, creamy cheesecake dessert  and crunchy cinnamon cookies. Kcal/Serving340",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/23/d8479fc8-3daf-4fd6-92b9-5bde022133df_40f7c852-ee32-4319-a1f1-d4adbd95f781.jpg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "39 ratings",
+                                                                    "ratingCountV2": "39"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#C8F9E5",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_very_good",
+                                                                    "ratingTextColor": "rating_very_good",
+                                                                    "ratingCountTextColor": "rating_very_good",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "114101752",
+                                                            "name": "Trixy Cookie Sundae 110ml",
+                                                            "category": "Single Serve Cups",
+                                                            "description": "(110ml) Parlour like fun in a cup. \n3 delicious layers - silky chocolate disc, delicious cookies & cream and crunchy choco cookies. Kcal/Serving235",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/23/ab4fa7f8-92de-45f5-896f-fdbe08e6aa7c_f464e122-da96-4bd9-a41c-4b17599431fe.jpg",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.2",
+                                                                    "ratingCount": "17 ratings",
+                                                                    "ratingCountV2": "17"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#C8F9E5",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_very_good",
+                                                                    "ratingTextColor": "rating_very_good",
+                                                                    "ratingCountTextColor": "rating_very_good",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "121889112",
+                                                            "name": "Oreo and Cream Cup 100ml",
+                                                            "category": "Single Serve Cups",
+                                                            "description": "Crunchy oreo cookie chunks with rich and creamy vanilla in a cup.",
+                                                            "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/26/ddcb7bc6-adb2-49a1-8962-cd114b3601cc_7cb87098-08b5-43e2-861e-decdae050c40.jpg_compressed",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 6000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.7",
+                                                                    "ratingCount": "68 ratings",
+                                                                    "ratingCountV2": "68"
+                                                                },
+                                                                "ratingsPresentationConfig": {
+                                                                    "bgGradient": {
+                                                                        "colours": [
+                                                                            "#C8F9E5",
+                                                                            "#FFFFFF"
+                                                                        ],
+                                                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                                                    },
+                                                                    "ratingIconColor": "rating_very_good",
+                                                                    "ratingTextColor": "rating_very_good",
+                                                                    "ratingCountTextColor": "rating_very_good",
+                                                                    "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                                                    "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "subtitleSuffix": {},
+                                            "image": "FOOD_CATALOG/IMAGES/CMS/2024/4/23/1573f058-e619-47e4-8f6a-36082e061f98_a05a4bb8-d574-4712-b338-8a450435543a.jpg_compressed",
+                                            "categoryId": "56330000"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                                            "type": "FSSAI",
+                                            "imageId": "fssai_final_edss9i",
+                                            "text": [
+                                                "License No. 10119001000118"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                                            "name": "Kwality Walls Ice Cream and More",
+                                            "area": "Gujarathipeta",
+                                            "completeAddress": "10/3/36, GUDI VEEDHI JUNCTION, SRIKAKULAM, PROPRIETOR, SIVA PRASAD TOTTEMPUDI, District - Srikakulam, STATE - Andhra Pradesh"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "firstOffsetRequest": true,
+        "isQCLink": false
+    },
+    "tid": "5aab8d27-56d5-4fa5-b711-6a788bf8565c",
+    "sid": "lnu87eca-263d-4824-af6f-dc2472f4fd41",
+    "deviceId": "a1fea3d9-99a0-50d3-233b-88e2c26c8267",
+    "csrfToken": "UwGPi0K1LMrH-1oOLd-tb14ZF5W7ZUYY1Mav6AOI"
+}

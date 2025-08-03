@@ -2,9 +2,11 @@
   "name": "myreact",
   "version": "1.0.0",
   "description": "This is my React by Lavanya Sangamreddi",
-  "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest",
+    "watch-test": "jest --watch"
   },
   "repository": {
     "type": "git",
@@ -23,7 +25,29 @@
   },
   "homepage": "https://github.com/lavanyasangamreddi/MyReact#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "@babel/preset-react": "^7.27.1",
+    "@tailwindcss/postcss": "^4.1.11",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "autoprefixer": "^10.4.21",
+    "babel-jest": "^30.0.4",
+    "jest": "^30.0.4",
+    "jest-environment-jsdom": "^30.0.4",
+    "parcel": "^2.9.3",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.8.2",
+    "lottie-react": "^2.4.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^6.23.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
 }
