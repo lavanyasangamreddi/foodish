@@ -19,7 +19,7 @@ Styling: Tailwind CSS
 Routing: React Router DOM
 
 
-# Parcel
+⚙️ Parcel
 
 -Dev 
 -Local server 
@@ -39,74 +39,68 @@ Routing: React Router DOM
 -Error Handling
 -HTTPs
 
-# Two types of Import/Export
+🔄 ES6 Modules (Import/Export)
+Default Export:
+export default Component → import Component from "path"
 
--Default Import/Export
-   export default Component
-   import Component from "path"
-   preferable when we export single component
+Named Export:
+export const Component → import { Component } from "path"
 
--Named Import/Export
+⚛️ React Hooks
 
- export const Component
- import {Component} from "path"
- used when exporting multiple components
+useState() – for local state management
+useEffect() – for side effects and lifecycle management
 
- # Hooks
- (Normal JS utility functions)
- -useState()
- -useEffect()
+🌐 Routing Concepts
 
- # Routing
- -Client side Routing
- -Server side Routing
+Client-Side Routing – Using React Router
+Server-Side Routing – For comparison/understanding
 
-#
+⚡ Performance Optimization
+
 -Chunking
 -Code Splitting
 -Dynamic Bundling
--Lazy loading
--on demand loading
+-Lazy Loading
+-On-Demand Loading
 
-# UI frameworks
+🎨 UI Frameworks (Explored)
+
 -Material UI
 -Bootstrap
 -Chakra UI
 -Ant Design
 
-# Redux Toolkit
--Install @reduxjs/toolkit and react-redux
--Build our own store
--Connect our store to our app
--Create a card slice
--Dispatch an action
--Read the data using selection
+🧰 State Management – Redux Toolkit
 
-# Redux Toolkit vs vanialla(older)
-  # Redux Toolkit
-  -In Redux toolkit we have to mutate the state
-  -Returning is not maditory
-  # Vanialla(older redux)
-  -Don't mutate the state and 
-  -Returning the new state was maditory
+-Installed @reduxjs/toolkit and react-redux
+-Built custom Redux store
+-Created slices (e.g., Cart Slice)
+-Dispatched actions and selected state
+-Compared with older Vanilla Redux:
+-Toolkit: Mutates state, returning is optional
+-Vanilla Redux: Must return new state, avoid mutation
 
-# Testing
--Unit testing
--Integration testing 
--End to end testing (e2e testing)
+✅ Testing
 
-# Setting up testing in our app
--Install React testing library
--Install jest
--Install Babel dependencies
--Configure babel
--Configure parcel config file to disable babel transpilation
--Jest Configuration
--Jest -npx jest-init
--Install jsdom library
--Install @babel/preset-react to make JSX work in test cases
--Include @babel/preset-react inside my babel config(which is used to react element code to normal html code)
--Install @testing-library/jest-dom 
+Types:
+-Unit Testing
+-Integration Testing
+
+🧪 Testing Setup
+Installed:
+
+-React Testing Library
+-Jest
+-Babel Dependencies
+-JSDOM
+-@testing-library/jest-dom
+-@babel/preset-react (for JSX in tests)
+
+Configured:
+-Babel for React JSX transpilation
+-Parcel to disable Babel transpilation in tests
+-Jest (npx jest --init) for test configuration
 
 🙋‍♀️ Author
 Lavanya Sangamreddi
