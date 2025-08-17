@@ -6,7 +6,6 @@ Foodish is a simple and intuitive food ordering web application built with React
 🧭 User-friendly UI with clean navigation
 🍕 Browse a wide variety of food items
 📦 Add items to cart
-📍 Track order in real-time (if integrated)
 💬 Login/logout toggle (basic auth logic)
 🔍 Search bar with customizable styles
 ⚙️ Modular component structure
